@@ -1,0 +1,13 @@
+# 📁 Estrutura do repositório
+
+gerenciando-politicas-acessos-azure/
+│
+├── README.md
+├── controle-de-acesso/
+│   ├── rbac.md
+│   ├── pim.md
+│   └── policies.md
+├── armazenamento/
+│   └── armazenamento-e-acesso.md
+└── dicas/
+    └── boas-praticas.md
